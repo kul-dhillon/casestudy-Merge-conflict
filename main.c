@@ -7,11 +7,14 @@ Initial Function()
 
 Initial Security()
 {
- //Sample Code
-}
+ //Sample 
 feature1()
 {
 //f1 added
+}
+security patch()
+{
+//security patch added
 }
 
 
